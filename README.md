@@ -1,5 +1,4 @@
 # Project 1: Cybersecurity Foundations (Cisco)
-> Part of my 11-month Cybersecurity Mastery Roadmap.
 
 ## 📌 Overview
 This repository contains my intensive study and practical analysis of the **Cisco Introduction to Cybersecurity** curriculum. This project marks the beginning of my foundational phase, where I build a deep understanding of the cyber landscape, threats, and defense mechanisms.
